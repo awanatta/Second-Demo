@@ -1,1 +1,2 @@
 hello second demo on terminal
+updated first.txt on github
