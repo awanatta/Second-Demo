@@ -1,1 +1,2 @@
 added new file third.txt in terminal
+updated in thrid.txt for new branch "newtest"
